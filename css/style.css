@@ -9,7 +9,7 @@ body {
 
 .window-about {
     margin-top: 18%;
-    padding: 40px;
+    padding: 15px;
     margin-left: auto;
     margin-right: auto;
     width: fit-content;
@@ -47,21 +47,19 @@ h1 {
     text-align: center;
     margin: 0 auto;
     text-align: center;
-
 }
 
 .down-side-box a {
-    font-size: 900%;
+    font-size: 450%;
     color: white;
     text-align: center;
     background: -webkit-linear-gradient(#eee, #333);
     background-clip: unset;
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    display: table;
+    -webkit-background-clip: text;
     margin: 0 auto;
     margin-bottom: 3%;
-
+    display: inline-block;
 }
 
 .down-side-box a:last-child {
@@ -97,7 +95,7 @@ h1 {
     right: 0;
     bottom: 0;
     width: 100%;
-    height: 263%;
+    height: 100%;
     display: block;
 }
 
